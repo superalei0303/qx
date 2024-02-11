@@ -1,3 +1,6 @@
+【General】
+resource_parser_url= https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js  
+
 [server_local]
 vmess=wwy.11451466.xyz:2096, method=chacha20-ietf-poly1305, password= d178d785-53cb-4ad7-b76f-7ee4d35032f3, obfs-host=wwy.11451466.xyz, obfs=wss, obfs-uri=/7ee4d35032f3, tls-verification=true,fast-open=false, udp-relay=false, tag=rn-ws-tls
 
