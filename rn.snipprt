@@ -1,0 +1,4 @@
+[server_local]
+vmess=wwy.11451466.xyz:2096, method=chacha20-ietf-poly1305, password= d178d785-53cb-4ad7-b76f-7ee4d35032f3, obfs-host=wwy.11451466.xyz, obfs=wss, obfs-uri=/7ee4d35032f3, tls-verification=true,fast-open=false, udp-relay=false, tag=rn-ws-tls
+
+vmess = 74.48.183.202:34441, method=chacha20-ietf-poly1305, password=890b8a74-6d0d-4a81-8779-db6e5e8cca5b, obfs=ws, obfs-host=74.48.183.202, obfs-uri=/, fast-open=false, udp-relay=false, aead=false, tag=rn-ws
